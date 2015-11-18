@@ -3,6 +3,8 @@
 Fuse
 ====
 
+ADDED EXTRA RETURN TO MONITOR FIELD THAT THE SEARCH WAS FOUND IN
+
 [![NPM](https://nodei.co/npm/fuse.js.png?downloads=true)](https://nodei.co/npm/fuse.js/)
 
 [![Build Status](https://secure.travis-ci.org/krisk/Fuse.png?branch=master)](http://travis-ci.org/krisk/Fuse)

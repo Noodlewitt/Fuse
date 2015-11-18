@@ -1,11 +1,11 @@
 {
-  "name": "fuse.js",
+  "name": "noodlefuse.js",
   "author": "Kirollos Risk",
   "version": "1.3.0",
   "description": "Lightweight fuzzy-search",
   "license": "Apache",
   "main": "./src/fuse.js",
-  "repository": "https://github.com/krisk/Fuse.git",
+  "repository": "https://github.com/Boodlewitt/Fuse.git",
   "dependencies": {},
   "scripts": {
     "test": "vows --spec"
